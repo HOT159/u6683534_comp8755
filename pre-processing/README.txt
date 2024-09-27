@@ -1,0 +1,2 @@
+This part contains data preprocessing code, including ACCESS-S2 and AGCD precipitation data selection, clipping and amplification.
+processed_e**.py is the code for processing ACCESS-S2 data for different ensemble. agcd_processed.py is the code for processing AGCD data.
